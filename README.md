@@ -1,5 +1,5 @@
 # Resume_Project
-This place has Shengchao's programming projects.
+This place has Shengchao's programming project samples.
 
 There are two zip files including detailed instructions.<br/>
 The instructions are for linux environment only.<br/>
